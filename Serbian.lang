@@ -841,18 +841,18 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 835=You can't change roles while you're alive.
 836=Adaptive Reload [Double Tap = Fast] [Single Tap = Tactical]//
 837=Dot on Screen While Running//
-838=Smoke//
-839=Ready//
-840=Cannon//
+838=Dim//
+839=Spremno//
+840=Top//
 841=Učitavanje @1//
 842=STA On//Stabilization (for tank turret) enabled
 843=STA Off//Stabilization (for tank turret) disabled
 844=@1 Loaded//
 845=None
-846=Armor Piercing Shell
-847=High Explosive Shell
+846=Protiv Oklpna Granata
+847=Visoko Eksplozivna Granata
 848=Turret Stabilization
-849=Deploy Smoke
+849=Ispusti Dim
 850=Pucaj//
 851=Unloading @1
 852=Dalekovidnost//
@@ -1094,8 +1094,8 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1088=Attack!
 1089=Defend!
 1090=Show button to ping on flags//
-1091=@1 coming to heal you.
-1092=@1 coming to bandage you.
+1091=@1 dolazi da te zaleči.
+1092=@1 dolazi da te previje.
 1093=Spot
 1094=Coming to help!
 1095=Mic Volume//
