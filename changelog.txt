@@ -1,0 +1,8 @@
+21/05/2022 - Just Started! Done some translations, will keep going.
+22/05/2022 - Done some more settings translations and the full Soldier tab and a some stuff on the side. 
+21/05/2022 - Just some small translations.
+02/06/2022 - Done a few new lines and changed some stuff for context and better translations. TEAMED UP WITH Anri#4121, HUGE THANKS!!!
+03/06/2022 - Changed a lot of out of context translations and done some more!
+11/06/2022 - Did Enough translations for the game to be playable!
+15/06/2022 - Major and minor grammar and translation fixes, translated squad leader lines along with replacing wrong translation for rifles and vehicles.
+20/06/2022 - Master -> Sve | fix spelling mistakes and unneccessary capatalization, TODO: 274, 282, 350, 374, 377, 378 | Translated some objective and mission text
