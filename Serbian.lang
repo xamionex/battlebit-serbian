@@ -347,7 +347,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 341=Pogodak u glavu Bonus
 342=Penetracija Šlema Bonus
 343=Neprijateljski rally uništen
-344=Kolega iz odreda se stvorio na tačku okupljanja
+344=Prijatelj iz odreda se stvorio na tačku okupljanja
 345=SteamID kopiran
 346=Pritisnite '@1' da uđete u vozilo
 347=@1 je izbačen
@@ -356,7 +356,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 350=Toggle map//For Options
 351=@1 km/h //Kilometers Per Hour
 352=Repetiranje... //Tank reload
-353=Kolega iz odreda se stvorio na tebe
+353=Prijatelj iz odreda se stvorio na tebe
 354=Skladište municije je prazno //Tank rounds empty
 355=@1° //Degrees
 356=@1m //Meters
@@ -410,7 +410,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 404=LEČIO @1 PRIJATELJA
 405=ZAŠTITIO @1 PUTA
 406=RANG @1
-407=Vaš nalog je banovan sa BattleBit servera. /?
+407=Vašem nalogu je zabranjen pristup BattleBit serverima. /?
 408=Master server nije mogao da verifikuje vaš nalog. /?
 409=Vaše trenutno Steam ime nije dozvoljeno na BattleBit serverima. /?
 410=Steam token nije verifikovan. /?
@@ -527,7 +527,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 521=Strano Cevne Šine//
 522=Šaržeri//
 523=Izgled//
-524=Dalekogledajući Nišani//
+524=Optički Nišan//
 525=Glavni Nišan//
 526=Gornji Nišan//
 527=Pomoćni Nišan//
@@ -619,7 +619,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 613=Uđi u bilo koji slobodan hardcore server sa najmanje ping-a//
 614=Pretraživač Servera//
 615=Pretraži kroz Server-listu//
-616=Poligon (nije još dostupan)//
+616=Streljana (nije još dostupan)//
 617=Testiraj svako oružije i svaki dodatak//
 618=Moje Statistike//
 619=Pogledaj svoje opšte statistike//
@@ -642,7 +642,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 636=Traženje Casual Servera... (@1)//		@1 = Seconds @2 = Attempt Count
 637=Traženje Hardcore Servera... (@1)//	@1 = Seconds @2 = Attempt Count
 638=Traženje Servera... (@1)//				@1 = Seconds @2 = Attempt Count
-639=Poligon//
+639=Streljana//
 640=Klan//
 641=Urednik nivoa//
 642=Podešavanje Igre
@@ -844,14 +844,14 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 838=Dim//
 839=Spremno//
 840=Top//
-841=Punjenje @1//
+841=Ubacivanje @1//
 842=STA On//Stabilization (for tank turret) enabled
 843=STA Off//Stabilization (for tank turret) disabled
 844=@1 Učitan//
 845=Ništa
 846=Protiv Oklpna Granata
 847=Visoko Eksplozivna Granata
-848=Stabilizacija tureta
+848=Stabilizacija topa
 849=Ispusti Dim
 850=Pucaj//
 851=Izbacivanje @1
@@ -887,7 +887,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 881=Kvalitet Realističnog Prikaza//
 882=@1 Supply poen.
 883=Ostali bez poena.
-884=Dopunski bonus
+884=Snabdevački bonus
 885=Guraj//
 886=Optimizuj teren(experimentalno - potreban restart)//
 887=Optimizuj teren asihronično //
@@ -898,7 +898,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 892=Usmereno penjanje//
 893=@1 m//meters
 894=Nedovoljno goriva dostupno !
-895=Padina je previše strma
+895=Nizbrdica je previše strma
 896=Povećati nuliranje//
 897=Smanjiti nuliranje//
 898=Ostalo bez raketa.
@@ -1353,7 +1353,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1347=Proverite da vam je igra pravilno pokrenuta sa anti-čit uslugama.
 1348=Konekcija onesposobljena.
 1349=Izgubio si konekciju ka serveru za igru.
-1350=Server promenio mapu.
+1350=Server je promenio mapu.
 1351=Već si prijavio igrača za ovaj razlog.//
 1352=Previše brzo prijavljuješ, pokušaj opet za @1 minut.//
 1353=Zaštićen//
