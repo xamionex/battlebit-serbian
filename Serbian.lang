@@ -1102,14 +1102,14 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1096=Poeni : @1
 1097=Testiraj mikrofon//
 1098=Veličina za prijateljski tag//
-1099=Pokupljen Šaržer
+1099=Šaržer Pokupljen
 1100=Vođa odreda je naredio da napadneš zastavu @1
 1101=Vođa odreda je naredio da braniš zastavu @1
 1102=@1hp vozilo popravljeno //@1 = hp
 1103=HUD Vozila//
-1104=Boja Tenk HUDa//
-1105=Boja APC HUDa//
-1106=Boja HUDa Helikoptera//
+1104=Boja Tenk HUD-a//
+1105=Boja APC HUD-a//
+1106=Boja HUD-a Helikoptera//
 1107=@1 osetio gnev prirode
 1108=Detoniraj
 1109=Postavi//Postavljanje stavke na zemlju.
@@ -1323,7 +1323,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1317=Udarna Bomba
 1318=Easy Anti Cheat nije još verifikao vaš status. Stvaranje je onemogućeno dok vas ne verifikuje. (Restartovanje igre može popraviti ako je problem uporan)
 1319=Server je pun.
-1320=Kill feed//
+1320=Tabela ubistva//
 1321=Varanje - Wallhack//
 1322=Varanje - Aimbot//
 1323=Varanje - Speedhack//
@@ -1338,9 +1338,9 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1332=Otvoreno//Party is open(public)
 1333=@1 je ušao u tvoju partiju.
 1334=@1 je izašao iz tvoje partije.
-1335=Lider grupe je ušao u server.
-1336=Pritisnite '@1' da udješ u server.
-1337=Lider Grupe ulazi u server.
+1335=Vođa grupe je ušao u server.
+1336=Pritisni '@1' da udješ u server.
+1337=Vođa Grupe ulazi u server.
 1338=@1 te je pozvao u grupu.
 1339=Pritisnite '@1' uđeš u grupu.
 1340=Imali ste timeout iz grupe.
