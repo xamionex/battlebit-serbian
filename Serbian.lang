@@ -599,9 +599,9 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 593=Pad//						Rocket's drop value
 594=Procesor//
 595=Multi Threading//
-596=Automatsko sakrivanje četa//
-597=Jačina vidljivosti četa//
-598=Čet//
+596=Automatsko sakrivanje ćaskanja//
+597=Jačina vidljivosti ćaskanja//
+598=Ćaskanje//
 599=S//Sever
 600=I//Istok
 601=J//Jug
@@ -1015,8 +1015,8 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1009=Prijatelji ubijeni @1//
 1010=Steam profil//
 1011=Prijavi//
-1012=Grifovanje//
-1013=Čitovanje//
+1012=Uništavanje//
+1013=Varanje//
 1014=Eksploisanje//
 1015=Zloupotreba glasovnog ćaskanja//
 1016=Zloupotreba četa//
@@ -1063,7 +1063,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1057=Odzumiranje topa na vozilu//
 1058=Višejezgarno korišćenje Procesora u Korisničkom Interfejsu//
 1059=Idi tamo!//
-1060=APC tamo!//
+1060=Oklopno Vozilo tamo!//
 1061=Tenk tamo!//
 1062=Gledaj tamo!//
 1063=Brod tamo!//
