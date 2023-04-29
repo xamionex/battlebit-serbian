@@ -1,8 +1,8 @@
 # BattleBit-Serbian
 ## Serbian translation for the game Battlebit Remastered
 
-### Current Authors
+### Current Contributors
 - DeadStar
 - Anri
 - Petar
-- skule
+- G_G

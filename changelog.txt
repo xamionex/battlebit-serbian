@@ -1,12 +1,43 @@
-21/05/2022 - Just Started! Done some translations, will keep going.
-22/05/2022 - Done some more settings translations and the full Soldier tab and a some stuff on the side.
-21/05/2022 - Just some small translations.
-02/06/2022 - Done a few new lines and changed some stuff for context and better translations. TEAMED UP WITH Anri#4121, HUGE THANKS!!!
-03/06/2022 - Changed a lot of out of context translations and done some more!
-11/06/2022 - Did Enough translations for the game to be playable!
-15/06/2022 - Major and minor grammar and translation fixes, translated squad leader lines along with replacing wrong translation for rifles and vehicles.
-20/06/2022 - Master -> Sve | fix spelling mistakes and unneccessary capatalization, TODO: 274, 282, 350, 374, 377, 378 | Translated some objective and mission text
-20/06/2022 - Welcomed aboard 2 new translators, @Petar and @skule
-             Contributed over 600 lines, with minor and major translation fixes, The language pack is now almost entirely Serbian.
-             Thank you to both of them.
-             Expecting an update next thursday or friday.
+Language : Serbian - Srpski (Latin) / SRB
+Last Updated (d/m/y) : 29/4/2023
+Translated By : 
+
+Changelog : 
+
+	Update - 0 : 21/05/2022
+Just Started! Done some translations, will keep going.
+
+	Update - 1 : 22/05/2022    
+Done some more settings translations and the full Soldier tab and a some stuff on the side. 
+
+	Update - 2 : 21/05/2022
+Just some small translations.
+
+	Update - 3 : 02/06/2022
+Done a few new lines and changed some stuff for context and better translations.
+TEAMED UP WITH Anri#4121, HUGE THANKS!!!
+
+	Update - 4 : 03/06/2022
+Changed a lot of out of context translations and done some more!
+
+	Update - 5 : 11/06/2022
+Did Enough translations for the game to be playable!
+
+	Update - 6 : 15/06/2022  
+Major and minor grammar and translation fixes, translated squad leader lines along with replacing wrong translation for rifles and vehicles. 
+
+	Update - 7 : 20/06/2022
+Welcomed aboard 2 new translators, Petar#0389 and G_G#1850
+Contributed over 600 lines, with minor and major translation fixes, The language pack is now almost entirely Serbian.
+Thank you to both of them.
+
+	Update - 8 (Final + later lang adds) : 30/7/2022 
+We as a team of translators for the Serbian language appreciate the chance and the trust of this community and the developers, we are thankful!
+I want to give a huge thanks to the whole team (Anri, Petar, skule) for helping a huge portion of the translation process! 
+
+	Update - 9 (We are back!!!) : 29/4/2023 <==== Current!
+We as a group of translators for the Serbian language took a collective break do do work and school of any kind. Now that we are somewhat back, 
+we are going to try and stay in the loop until the game releases publicly.
+We have added all the missing lines and fixed all the one word untranslated lines (99% of the lines are translated), 
+and I personally want to thank the team for not completely ditching this game or the translation!
+Just hope this gets pushed in the game as soon as possible!
