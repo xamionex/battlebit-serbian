@@ -1,6 +1,6 @@
 Language : Serbian - Srpski (Latin) / SRB
 Last Updated (d/m/y) : 29/4/2023
-Translated By : 
+Translated By : @DeadStar#5688, @Anri#4121, @Petar#0389, G_G#1850
 
 Changelog : 
 
