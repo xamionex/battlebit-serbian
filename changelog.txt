@@ -35,9 +35,13 @@ Thank you to both of them.
 We as a team of translators for the Serbian language appreciate the chance and the trust of this community and the developers, we are thankful!
 I want to give a huge thanks to the whole team (Anri, Petar, skule) for helping a huge portion of the translation process! 
 
-	Update - 9 (We are back!!!) : 29/4/2023 <==== Current!
+	Update - 9 (We are back!!!) : 29/4/2023
 We as a group of translators for the Serbian language took a collective break do do work and school of any kind. Now that we are somewhat back, 
 we are going to try and stay in the loop until the game releases publicly.
 We have added all the missing lines and fixed all the one word untranslated lines (99% of the lines are translated), 
 and I personally want to thank the team for not completely ditching this game or the translation!
 Just hope this gets pushed in the game as soon as possible!
+
+	Update - 10 (THE BIG ONE - ZERO) : 18/6/2023 <==== Current!
+Did a lot of fixing up and adding new translations as the game was updated. We did 99% of the translation, everything else is not accessible to us by the lang file.
+Thanks to all Contributors for helping and somewhat staying in this game community. 
