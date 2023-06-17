@@ -428,7 +428,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 422=• Pobedite tako što ćete imati veći broj tiketa kada istekne tajmer za rundu.//				Loading Screen TDM Tip 3
 423=Povezivanje na Server i Sinhronizovanje...
 424=Neuspešno Povezivanje!
-425=Povezan!//																					Loading Screen
+425=Povezan! :)//																					Loading Screen
 426=Čučanj//For Options
 427=Preskoči//								For Options
 428=Skok//								For Options
@@ -845,8 +845,8 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 839=Spremno//
 840=Top//
 841=Ubacivanje @1//
-842=STA On//Stabilization (for tank turret) enabled
-843=STA Off//Stabilization (for tank turret) disabled
+842=Stabilizacija uključena//Stabilization (for tank turret) enabled
+843=Stabilizacija isklučena//Stabilization (for tank turret) disabled
 844=@1 Učitan//
 845=Ništa
 846=Protiv Oklpna Granata
@@ -1560,6 +1560,6 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1554=@1\notključano!
 1555=Potvrdi da li si instalirao FACEIT Anti Cheat i pokreni igru sa njim.//
 1556=This server is running @1./nYou are running @2./n/nYou need to launch the game with @1 to join this server.
-1557=You have exceeded the server's ping limit for too long.
-1558=High Ping.//Network ping.
-1559=Aktivir//
+1557=Predugo ste prekoračili ograničenje Pinga na Server-u.
+1558=Visok Ping.//Network ping.
+1559=Aktivirani Kodovi//
