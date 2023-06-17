@@ -277,7 +277,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 271=@1 je izbačen iz servera (Prijateljsko Pucanje)
 272=Pritisnite '@1' da nadoknadite
 273=Najbliži Doktor [@1 m]
-274=Toggle Aim//		For Options
+274=Aktiviraj Nišanjenje//		For Options
 275=Dozvoli @1
 276=Nedozvoli @1
 277=Rally je uništen
@@ -353,7 +353,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 347=@1 je izbačen
 348=Treba li izbaciti @1?
 349=@1 glasanja-e potrebno
-350=Toggle map//For Options
+350=Aktiviraj Mapu//For Options
 351=@1 km/h //Kilometers Per Hour
 352=Repetiranje... //Tank reload
 353=Prijatelj iz odreda se stvorio na tebe
@@ -595,7 +595,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 589=Broj prve pomoći
 590=Broj lakih uređaja
 591=Broj teških uređaja
-592=Throwable Count - ?
+592=Broj predmeta za bacanje - ?
 593=Pad//						Rocket's drop value
 594=Procesor//
 595=Multi Threading//
@@ -638,7 +638,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 632=Tvoja Verzija nije ista kao i od Servera//
 633=Hardcore
 634=Casual
-635=Tip//
+635=Savet//
 636=Traženje Casual Servera... (@1)//		@1 = Seconds @2 = Attempt Count
 637=Traženje Hardcore Servera... (@1)//	@1 = Seconds @2 = Attempt Count
 638=Traženje Servera... (@1)//				@1 = Seconds @2 = Attempt Count
@@ -1044,7 +1044,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1038=Pritisni @1 da mutiraš
 1039=Pritisni @1 da odmutiraš
 1040=Pritisni da promeniš vidljivost korisničkog interfejsa.
-1041=Toggle nagnuće//
+1041=Aktiviraj Nagnuće//
 1042=Pritisni enter da zatvoriš//
 1043=Streljalište//
 1044=Testiraj Klase, Tovar i Oružije//
@@ -1097,7 +1097,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1091=@1 dolazi da te zaleči.
 1092=@1 dolazi da te previje.
 1093=Obeleži
-1094=Dolazi da pomogne!
+1094=Dolazim da pomognem!
 1095=Jačina mikrofona//
 1096=Poeni : @1
 1097=Testiraj mikrofon//
@@ -1221,14 +1221,14 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1215=Prag aktivnosti za mikrofon//
 1216=Ne može se promeniti tim zbog ne balansiranosti.
 1217=Drži da previješ sebe
-1218=Drži da oživiš @1
-1219=Team Deathmatch//Gamemode name
-1220=Advance And Secure//Gamemode name
-1221=Rush//Gamemode name
-1222=Conquest//Gamemode name
-1223=Domination//Gamemode name
-1224=Elimination//Gamemode name
-1225=Infantry Conquest//Gamemode name
+1218=Drži da pomogneš @1
+1219=Timska Borba//Gamemode name
+1220=Napreduj i Obezbedi//Gamemode name
+1221=Nalet//Gamemode name
+1222=Osvajanje//Gamemode name
+1223=Dominacija//Gamemode name
+1224=Eliminacija//Gamemode name
+1225=Pešadijsko Osvajanje//Gamemode name
 1226=Frontline//Gamemode name
 1227=Drži da previješ @1
 1228=@1 ms//Miliseconds for ping
@@ -1242,13 +1242,13 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1236=Ovaj server prihvata samo igrače iznad ranga @1
 1237=Ovaj server prihvata samo igraće ispod ranga @1
 1238=U razvoju//
-1239=Gun Game/n (Svako za sebe)//Gamemode
+1239=Igra Oružija/n (Svako za sebe)//Gamemode
 1240=Svako za sebe//Gamemode
-1241=Gun Game/n (Tim)//Gamemode
+1241=Igra Oružija/n (Tim)//Gamemode
 1242=@1 je pobedio!
 1243=Eksplodiraj
-1244=Suicide Rush//Gamemode
-1245=Catch Game//Gamemode
+1244=Samoubilistički Nalet//Gamemode
+1245=Igra Ulova//Gamemode
 1246=Prvi Trzaj//Recoil
 1247=Kontrola//Weapon Control
 1248=Brzina Rafala
@@ -1277,13 +1277,13 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1271=brzina Repetiranja
 1272=Treskavost Ekrana//
 1273=Omogući ćaskanje//
-1274=Timski ćaskanje//Chat
-1275=Globalni ćaskanje//
+1274=Timsko ćaskanje//Chat
+1275=Globalno ćaskanje//
 1276=Veoma mali procenat pojedinaca može doživeti epileptične napade kada su izloženi određeneim svetlosnim obrascima ili trepćućim svetlima. Izloženost određenim obrascima ili pozadini na ekranu računara, ili tokom igranja video igrica, može izazvati eplileptični napad kod ovih osoba. Određena stanja mogu izazvati ranije neotkrivene epileptičke simptome čak i kod osoba koje nemaju istoriju napada epilepsije. Ako vi ili bilo ko u vašoj porodici imate epileptičnu bolest, posavetujte se sa svojim lekarom pre igranja. Ako osetite bilo koji od sledećih simptoma dok igrate -- vrtoglavicu, promene u vidu, trzaje očiju ili mišića, gubitak svesti, dizorijentisanost, bilo kakav nehotični pokret ili konvulzije -- odmah prekinite sa korišćenjem i konsultujte se sa svojim lekarom pre nego što nastavite sa igrom.//
-1277=Upozorenje: rizik napada//
+1277=Upozorenje: rizik epileptičnog napada//
 1278=Ti @1 - @2 Neprijatelj
 1279=Iskrvario si!//
-1280=Toggle trčanje//
+1280=Aktiviraj Trčanje//
 1281=Prebaci se u sledeće sedište//
 1282=Vrati se na predhodno sedište//
 1283=Vidljivost Granice//
@@ -1346,7 +1346,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1340=Imali ste prekid odreda.
 1341=Pritisni @1 da otvoris odredno ćaskanje.//To open the party chat.
 1342=Izbačen si iz odreda.
-1343=Puko ti je Net.
+1343=Puko ti je Net :)
 1344=Izbačen si sa servera.
 1345=Zabranjen ti je pristup ovom serveru.
 1346=Izbačen si od strane anti-čita.
@@ -1510,17 +1510,17 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1504=Voice Chat - Spamming//
 1505=Text Chat - Bad Language//
 1506=Pošalji//
-1507=You are reporting @1 for @2\nPlease provide more information about their behaviour to help us understand.
-1508=More info/n(You can leave this blank but it would help us a lot if you give details for us to look for)//
-1509=Voice Chat - Bad Language//
-1510=Inappropriate profile name / picture//
+1507=Vi prijavljujete @1 za @2\nMolimo Vas, podaj Te malo više informacija o njihovom ponašanju da nam pomognete da bolje razumemo.
+1508=Više informacija/n(Moze Te da ostavite ovo prazno ali bi dosta pomoglo ako možete da date više informacija)//
+1509=Voice Chat - Prgav Jezik//
+1510=Nepristonjo ime igrača ili slika//
 1511=Posmatraj//
 1512=Prestani posmatranje//
 1513=Pretraži igrača//
 1514=Your clan submission is being reviewed!
 1515=Your clan has been disabled temporarily.//
 1516=Ne možeš nišaniti dok su ti naočare za noćni vid altivirane.
-1517=Beze
+1517=Veze
 1518=Inventar//
 1519=Bonus Popravljanja
 1520=Ne možeš da postaviš ovo van granica mape.
