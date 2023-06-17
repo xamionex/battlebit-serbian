@@ -1560,3 +1560,6 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1554=@1\notključano!
 1555=Potvrdi da li si instalirao FACEIT Anti Cheat i pokreni igru sa njim.//
 1556=This server is running @1./nYou are running @2./n/nYou need to launch the game with @1 to join this server.
+1557=You have exceeded the server's ping limit for too long.
+1558=High Ping.//Network ping.
+1559=Aktivir//
