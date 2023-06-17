@@ -178,8 +178,8 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 172=Primarni
 173=Sekundarni
 174=Prva Pomoć
-175=Primarna sprava
-176=Sekundarna sprava
+175=Primarni uređaj
+176=Sekundarni uređaj
 177=Bacanja
 178=Kratka Distanca
 179=Srednja Distanca
@@ -612,11 +612,11 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 606=JI//Jugoistok
 607=JZ//Jugozapad
 608=Brzi Meč//
-609=Uđi u bilo koji slobodan Server sa najmanje Ping-a//
+609=Uđi u bilo koji slobodan Server sa najmanje Kašnjenja//
 610=Brzi Casual Meč//
-611=Uđi u bilo koji slobodan casual server sa najmanje ping-a//
+611=Uđi u bilo koji slobodan casual server sa najmanje Kašnjenja//
 612=Brzi Hardcore Meč//
-613=Uđi u bilo koji slobodan hardcore server sa najmanje ping-a//
+613=Uđi u bilo koji slobodan hardcore server sa najmanje Kašnjenja//
 614=Pretraživač Servera//
 615=Pretraži kroz Server-listu//
 616=Streljana (nije još dostupan)//
@@ -632,7 +632,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 626=Doprinosioci//
 627=Tick Rate//
 628=Igrači//
-629=Ping//
+629=Kašnjejne//
 630=ID//
 631=@1 hz//Tickrate
 632=Tvoja Verzija nije ista kao i od Servera//
@@ -752,7 +752,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 746=Flir prebacivanje//
 747=@1 On//Laser-Flashlight on
 748=@1 Off//Laser-Flashlight on
-749=Pokaži pingove//
+749=Pokaži javljanja//
 750=GPU Skinning//
 751=Daleko Ubistvo [@1m]//														Rewarding player
 752=Osvetljenost//
@@ -771,8 +771,8 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 765=Igrač je u borbi.
 766=Osvetljenje/Boja//
 767=Da li želiš da potvrdiš promene?//	For Options
-768=Veličina pinga//
-769=Boja pinga//
+768=Veličina javljanja//
+769=Boja javljanja//
 770=Tvoj pucanj je bio ignorisan zbog bezbednosne zone.
 771=Vuči//
 772=Vuči igrače//
@@ -860,8 +860,8 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 854=Polje vidljivost u Vozilu//
 855=U neprijateljskoj teritoriji si//
 856=Bićeš ubijen za @1 sekund-i//
-857=(Samo Odred) Ping//
-858=(Samo Vozilo) Opasnost Ping//
+857=(Samo Odred) Javi//
+858=(Samo Vozilo) Javi Opasnost//
 859=(Samo Osmatrač) Posmatraj//
 860=(Samo Osmatrač) Opasnost//
 861=(Samo Vozilo) Posmatraj//
@@ -883,7 +883,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 877=@1 Municija preostala//'n' meci ostali
 878=@1 @2 Dostupno//@1 number, @2 item. For example -> 10[@1] AMMO[@2] Available
 879=Ostalo bez @1
-880=Najbliži prijatelj//
+880=Najbliži Prijatelj//
 881=Kvalitet Realističnog Prikaza//
 882=@1 Supply poen.
 883=Ostali bez poena.
@@ -1049,7 +1049,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1043=Streljalište//
 1044=Testiraj Klase, Tovar i Oružije//
 1045=Upozorenje!/n1) Neke stavke igre možda neće raditi kako treba dok si u streljalištu./n2) Streljalište trenutno nema vozila. /n3) Možeš omogućuti NOCLIP pritiskom TAB tastera/n4) Možeš testirati bilo koju pušku sa bilo kojim dodacima u streljalištu./n5) Imaš beskonačno municije dok si u streljalištu
-1046=Novo/Nove stavka-e dostupna-e
+1046=Novo
 1047=Perspektiva vozača
 1048=Kamera @1
 1049=Bledost prijateljske ikone//
@@ -1093,7 +1093,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1087=@1 Meci preostali
 1088=Napadni!
 1089=Odbrani!
-1090=Pokaži taster za pingovanje na zastavi//
+1090=Pokaži taster za javljanje na zastavi//
 1091=@1 dolazi da te zaleči.
 1092=@1 dolazi da te previje.
 1093=Obeleži
@@ -1274,7 +1274,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1268=Cilj Igre//List of gamemodes.
 1269=Mape//List of maps.
 1270=Veličina Mape//
-1271=brzina Repetiranja
+1271=Brzina Repetiranja
 1272=Treskavost Ekrana//
 1273=Omogući ćaskanje//
 1274=Timsko ćaskanje//Chat
@@ -1302,7 +1302,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1296=C4//As Gadget
 1297=Claymore//As Gadget
 1298=Mina protiv vozila//As Gadget
-1299=Samoubistveni C4//As Gadget, a C4 that is strapped to you that you can instantly explode instead of thorwing and exploding it.
+1299=Samoubilački C4//As Gadget, a C4 that is strapped to you that you can instantly explode instead of thorwing and exploding it.
 1300=Napredni Dvogled//As Gadget
 1301=Velika Kutija Municije//As Gadget
 1302=Prva Pomoć//As Gadget
@@ -1395,7 +1395,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1389=@1 igrač-a preostalo do obrojavanja (@2 igrač-a se povezuje na Sever).
 1390=Stil semafora//
 1391=Tvoj nalog je pod nadzorom administratora.
-1392=Neprijatelj Ubijen
+1392=Neprijatelj Likvidiran
 1393=Prijatelj Oživljen
 1394=Prijatelj Zalečen
 1395=Molimo Vas da unapredite svoju igru.
@@ -1463,7 +1463,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1457=Traženje Servera koji je 32 protiv 32 igrača
 1458=Povezivanje na Server.
 1459=Prikupljanje informacija.
-1460=Pingovanje Servera (Koristi pretraživač Servera ako ovo potraje)
+1460=Traženje Servera (Koristi pretraživač Servera ako ovo potraje)
 1461=Pokušaj povezivanja sa Serverom.
 1462=There are no empty/available @1 servers in your region. Waiting for a @1 server to be launched (@2)\n@3 player(s) are in queue.//@1 Server size, @2 seconds, @3 number of players in queue.
 1463=There is a @1 server in another region with @2ms latency, do you want to join or wait for a server to be launched?//@1 Server size, @2 latency.
@@ -1560,6 +1560,6 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1554=@1\notključano!
 1555=Potvrdi da li si instalirao FACEIT Anti Cheat i pokreni igru sa njim.//
 1556=This server is running @1./nYou are running @2./n/nYou need to launch the game with @1 to join this server.
-1557=Predugo ste prekoračili ograničenje Pinga na Server-u.
-1558=Visok Ping.//Network ping.
+1557=Predugo ste prekoračili ograničenje Kešnjenje na Server-u.
+1558=Visoko Serversko Kašnjenje.//Network ping.
 1559=Aktivirani Kodovi//
