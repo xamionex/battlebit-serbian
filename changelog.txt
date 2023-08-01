@@ -1,6 +1,6 @@
 Language : Serbian - Srpski (Latin) / SRB
-Last Updated (d/m/y) : 29/4/2023
-Translated By : @DeadStar#5688, @Anri#4121, @Petar#0389, G_G#1850
+Last Updated (d/m/y) : 1/8/2023
+Translated By : @DeadStar#5688, @Anri#4121, @Petar#0389, G_G#1850, Alen#9473
 
 Changelog : 
 
@@ -42,6 +42,9 @@ We have added all the missing lines and fixed all the one word untranslated line
 and I personally want to thank the team for not completely ditching this game or the translation!
 Just hope this gets pushed in the game as soon as possible!
 
-	Update - 10 (THE BIG ONE - ZERO) : 18/6/2023 <==== Current!
+	Update - 10 (THE BIG ONE - ZERO) : 18/6/2023 
 Did a lot of fixing up and adding new translations as the game was updated. We did 99% of the translation, everything else is not accessible to us by the lang file.
 Thanks to all Contributors for helping and somewhat staying in this game community. 
+
+	Update - 11 : 1/8/2023 <==== Current!
+Fixed some bad translations and with the help of the new member Alen#9473 more accurately translated the gun names. Also added the new Capture the Flag translations.
