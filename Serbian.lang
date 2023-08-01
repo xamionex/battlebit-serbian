@@ -1,6 +1,3 @@
-Encoding=UTF-8
-Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferson (05/12/2018), Vafels (12/02/2019), Vafels (19/03/2019), Deathwing (19/01/2022)
-
 // @1= these are variables, DO NOT CHANGE
 
 0=KAMPANJA
@@ -159,8 +156,8 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 153=Ruske sile
 154=Terorističke sile
 155=Polje Vida (FOV)
-156=Automatska
-157=Polu-Automatska
+156=Automatsko
+157=Polu-Automatsko
 158=Rafalno
 159=Bezbednosni Režim//For Options
 160=@1 se povezao
@@ -550,14 +547,14 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 544=Načini Paljbe//
 545=Brzina Okidača//
 546=Tovar / priključci//
-547=Rafalne Puške//
-548=Streljaške Puške//
+547=Automatske Puške//
+548=Vodne Snajperske Puške//
 549=Snajperske Puške//
-550=Pomoćne Puške//
+550=Puškomitraljezi//
 551=Mitraljezi//
-552=Mašinke//
+552=Automati//
 553=Pištolji//
-554=Rafalni Pištolji//
+554=Automatski Pištolji//
 555=Visoko Kalibarni Pištolji//
 556=Brzina Trčanja//
 557=Brzometna Puška//
@@ -963,8 +960,8 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 957=Pozivni kod je nevažeć.
 958=Status//
 959=Postignuća//
-960=Rafalne Puške//
-961=Streljaške Puške//
+960=Automatske Puške//
+961=Vodne Snajperske Puške//
 962=Transportna Vozila//
 963=Tenkovi//
 964=Pomorska Vozila//
@@ -1563,3 +1560,31 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1557=Predugo ste prekoračili ograničenje Kešnjenje na Server-u.
 1558=Visoko Serversko Kašnjenje.//Network ping.
 1559=Aktivirani Kodovi//
+1560=HESCO Visoki Zid
+1561=This item cannot be used as @1 role.
+1562=Show level progression//
+1563=Show squad list//
+1564=Capture The Flag//Name of the gamemode.
+1565=Take the flag/nTake it to your base
+1566=@1 Raportiraj
+1567=Our flag has been taken
+1568=Enemy flag has been taken
+1569=Enemy flag taken!
+1570=Our flag was dropped!
+1571=Enemy flag was dropped!
+1572=Enemy captured our flag!
+1573=We captured the enemy flag!
+1574=Zastava Zaplenjena!
+1575=We returned our flag.
+1576=Enemy has returned their flag
+1577=Zastava Vraćena
+1578=Show line towards objective//
+1579=Odbrani
+1580=Zapleni
+1581=Return your flag back//Return our team's flag back to base.
+1582=Capture the flag to your base//Take enemy's flag and bring it to your base.
+1583=Deliver the flag to your base.//Take enemy's flag and bring it to your base - shown when carrying the flag.
+1584=Return your flag to your base.//Return our team's flag back to base. - shown when carrying the flag.
+1585=Likvidiraj//Kill the player who is carrying the flag.
+1586=Eskort//Help the player who is carrying the flag.
+1587=Ukradeno//Flag was stolen from base by enemy
