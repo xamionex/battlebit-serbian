@@ -46,5 +46,14 @@ Just hope this gets pushed in the game as soon as possible!
 Did a lot of fixing up and adding new translations as the game was updated. We did 99% of the translation, everything else is not accessible to us by the lang file.
 Thanks to all Contributors for helping and somewhat staying in this game community. 
 
-	Update - 11 : 1/8/2023 <==== Current!
+	Update - 11 : 1/8/2023
 Fixed some bad translations and with the help of the new member Alen#9473 more accurately translated the gun names. Also added the new Capture the Flag translations.
+
+	Update - 12 : 6/14/2024
+Added updates from whitewingedangel
+
+	Update - 13 : 6/14/2024
+Added updates from palmabolp
+
+	Update - 13 : 6/14/2024
+Merged changes and did quality control
