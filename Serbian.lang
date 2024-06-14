@@ -1,6 +1,4 @@
 Encoding=UTF-8
-Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferson (05/12/2018), Vafels (12/02/2019), Vafels (19/03/2019), Deathwing (19/01/2022)
-
 // @1= these are variables, DO NOT CHANGE
 
 0=KAMPANJA
@@ -208,9 +206,9 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 202=Svetleći Meci (Svaki Metak)
 203=Otkači se//To disconnect from server.Pause Menu
 204=Promeni tim
-205=Pridruži se //Join squad
-206=Namesti opremu //Customize loadout
-207=Namesti lika //Customize character
+205=Pridruži se//Join squad
+206=Oprema//Customize loadout
+207=Karakter//Customize character
 208=Da li si siguran da hoćeš da otključaš @1 klasu za @2 poena?
 209=Jesi li siguran?
 210=Odaberi odred
@@ -380,8 +378,8 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 374=Cilj @1 je naoružan
 375=Eliminiši preostale neprijatelje u okolini
 376=Vratite se na bojno polje!
-377=Cilj @1 je razoružan.
-378=Cilj @1 je uništen.
+377=Bomba @1 je deaktivirana.
+378=Bomba @1 je pukla.
 379=Zaštitite preostale ciljeve.
 380=Svi neprijateljski ciljevi su uništeni.
 381=Sačekajte da napadači napreduju.
@@ -428,7 +426,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 422=• Pobedite tako što ćete imati veći broj tiketa kada istekne tajmer za rundu.//				Loading Screen TDM Tip 3
 423=Povezivanje na Server i Sinhronizovanje...
 424=Neuspešno Povezivanje!
-425=Povezan! :)//																					Loading Screen
+425=Povezan//																					Loading Screen
 426=Čučanj//For Options
 427=Preskoči//								For Options
 428=Skok//								For Options
@@ -1346,7 +1344,7 @@ Updates: Vafels (08/09/2018), Vafels (04/10/2018), Vafels (23/10/2018), Jefferso
 1340=Imali ste prekid odreda.
 1341=Pritisni @1 da otvoris odredno ćaskanje.//To open the party chat.
 1342=Izbačen si iz odreda.
-1343=Puko ti je Net :)
+1343=Niste dobili odgovor od servera
 1344=Izbačen si sa servera.
 1345=Zabranjen ti je pristup ovom serveru.
 1346=Izbačen si od strane anti-čita.
